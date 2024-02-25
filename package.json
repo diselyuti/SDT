@@ -1,0 +1,14 @@
+{
+  "name": "hometask1",
+  "version": "1.0.0",
+  "description": "home task by Dmytro Seliutin",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node task1.ts && ts-node task2.ts && ts-node task3.ts && ts-node task4.ts && ts-node task5.ts && ts-node task6.ts && ts-node task7.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
